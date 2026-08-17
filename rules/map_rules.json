@@ -1,0 +1,471 @@
+[
+ {
+  "map_no": "1.001",
+  "description": "Sales",
+  "fin_class": "PL",
+  "fin_category": "Operating Revenue",
+  "cf_class": "01 - Receipts from Customers"
+ },
+ {
+  "map_no": "1.002",
+  "description": "Services Revenue",
+  "fin_class": "PL",
+  "fin_category": "Operating Revenue",
+  "cf_class": "01 - Receipts from Customers"
+ },
+ {
+  "map_no": "1.003",
+  "description": "Management Fees Income",
+  "fin_class": "PL",
+  "fin_category": "Operating Revenue",
+  "cf_class": "01 - Receipts from Customers"
+ },
+ {
+  "map_no": "1.01",
+  "description": "Other Operating Income",
+  "fin_class": "PL",
+  "fin_category": "Operating Revenue",
+  "cf_class": "01 - Receipts from Customers"
+ },
+ {
+  "map_no": "2.001",
+  "description": "Capital Gains on Sale of Fixed Assets",
+  "fin_class": "PL",
+  "fin_category": "Other Income",
+  "cf_class": "06 - Payments for Property, Plant & Equipment"
+ },
+ {
+  "map_no": "2.002",
+  "description": "Capital Gains on Sale of Investments",
+  "fin_class": "PL",
+  "fin_category": "Other Income",
+  "cf_class": "09 - Payments for Investments"
+ },
+ {
+  "map_no": "2.003",
+  "description": "Revaluation of Investments",
+  "fin_class": "PL",
+  "fin_category": "Other Income",
+  "cf_class": "09 - Payments for Investments"
+ },
+ {
+  "map_no": "2.004",
+  "description": "Dividends & Investment Income",
+  "fin_class": "PL",
+  "fin_category": "Other Income",
+  "cf_class": "13 - Investment Income"
+ },
+ {
+  "map_no": "2.005",
+  "description": "Other Non-Recurring Income",
+  "fin_class": "PL",
+  "fin_category": "Other Income",
+  "cf_class": "01 - Receipts from Customers"
+ },
+ {
+  "map_no": "3.001",
+  "description": "Direct Costs - Cost of Sales",
+  "fin_class": "PL",
+  "fin_category": "Direct Costs",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "3.002",
+  "description": "Direct Costs - Other",
+  "fin_class": "PL",
+  "fin_category": "Direct Costs",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "4.001",
+  "description": "Administrative Costs",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "4.002",
+  "description": "Depreciation & Amortisation",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "06 - Payments for Property, Plant & Equipment"
+ },
+ {
+  "map_no": "4.003",
+  "description": "Employment Costs",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "4.004",
+  "description": "Management Fees Expense",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "4.005",
+  "description": "Marketing Costs",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "4.006",
+  "description": "Occupancy Costs",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "4.007",
+  "description": "Professional Fees",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "4.008",
+  "description": "Vehicle & Travel Costs",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "4.009",
+  "description": "Other Non-Recurring Expenses",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "4.01",
+  "description": "Other Operating Expenses",
+  "fin_class": "PL",
+  "fin_category": "Expenses",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "5.001",
+  "description": "Interest Income",
+  "fin_class": "PL",
+  "fin_category": "Net Finance Cost",
+  "cf_class": "03 - Interest Received"
+ },
+ {
+  "map_no": "5.002",
+  "description": "Interest Expense",
+  "fin_class": "PL",
+  "fin_category": "Net Finance Cost",
+  "cf_class": "04 - Interest Paid"
+ },
+ {
+  "map_no": "5.003",
+  "description": "FX Gains & Losses",
+  "fin_class": "PL",
+  "fin_category": "Net Finance Cost",
+  "cf_class": "04 - Interest Paid"
+ },
+ {
+  "map_no": "6.001",
+  "description": "Income Tax Expense",
+  "fin_class": "PL",
+  "fin_category": "Income Tax Expense",
+  "cf_class": "05 - Income Taxes Paid"
+ },
+ {
+  "map_no": "7.001",
+  "description": "Dividends Declared",
+  "fin_class": "PL",
+  "fin_category": "Appropriations",
+  "cf_class": "12 - Payments for Dividends"
+ },
+ {
+  "map_no": "7.002",
+  "description": "Movement in Reserves",
+  "fin_class": "PL",
+  "fin_category": "Appropriations",
+  "cf_class": "09 - Payments for Investments"
+ },
+ {
+  "map_no": "10.001",
+  "description": "Cash & Clearing Accounts",
+  "fin_class": "BS",
+  "fin_category": "Cash",
+  "cf_class": "00 - Cash"
+ },
+ {
+  "map_no": "11.001",
+  "description": "Trade Receivables",
+  "fin_class": "BS",
+  "fin_category": "Receivables",
+  "cf_class": "01 - Receipts from Customers"
+ },
+ {
+  "map_no": "11.002",
+  "description": "Prepaid Expenses",
+  "fin_class": "BS",
+  "fin_category": "Receivables",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "11.003",
+  "description": "Investment Income Receivable",
+  "fin_class": "BS",
+  "fin_category": "Receivables",
+  "cf_class": "13 - Investment Income"
+ },
+ {
+  "map_no": "11.004",
+  "description": "Other Assets",
+  "fin_class": "BS",
+  "fin_category": "Receivables",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "11.02",
+  "description": "Other Assets - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Receivables",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "12.001",
+  "description": "Related Loans Receivable",
+  "fin_class": "BS",
+  "fin_category": "Loans Receivable",
+  "cf_class": "07 - Net Loans With Related Parties"
+ },
+ {
+  "map_no": "12.002",
+  "description": "Unrelated Loans Receivable",
+  "fin_class": "BS",
+  "fin_category": "Loans Receivable",
+  "cf_class": "08 - Net Other Loans"
+ },
+ {
+  "map_no": "12.003",
+  "description": "Related Loans Receivable - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Loans Receivable",
+  "cf_class": "07 - Net Loans With Related Parties"
+ },
+ {
+  "map_no": "12.004",
+  "description": "Unrelated Loans Receivable - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Loans Receivable",
+  "cf_class": "08 - Net Other Loans"
+ },
+ {
+  "map_no": "12.011",
+  "description": "Related Loans Payable",
+  "fin_class": "BS",
+  "fin_category": "Loans Payable",
+  "cf_class": "07 - Net Loans With Related Parties"
+ },
+ {
+  "map_no": "12.012",
+  "description": "Unrelated Loans Payable",
+  "fin_class": "BS",
+  "fin_category": "Loans Payable",
+  "cf_class": "08 - Net Other Loans"
+ },
+ {
+  "map_no": "12.013",
+  "description": "Related Loans Payable - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Loans Payable",
+  "cf_class": "07 - Net Loans With Related Parties"
+ },
+ {
+  "map_no": "12.014",
+  "description": "Unrelated Loans Payable - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Loans Payable",
+  "cf_class": "08 - Net Other Loans"
+ },
+ {
+  "map_no": "13.001",
+  "description": "Inventory",
+  "fin_class": "BS",
+  "fin_category": "Inventory",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "14.001",
+  "description": "Property, Plant & Equipment",
+  "fin_class": "BS",
+  "fin_category": "Fixed Assets",
+  "cf_class": "06 - Payments for Property, Plant & Equipment"
+ },
+ {
+  "map_no": "15.001",
+  "description": "Intangibles",
+  "fin_class": "BS",
+  "fin_category": "Intangibles",
+  "cf_class": "06 - Payments for Property, Plant & Equipment"
+ },
+ {
+  "map_no": "16.001",
+  "description": "Investments",
+  "fin_class": "BS",
+  "fin_category": "Investments",
+  "cf_class": "09 - Payments for Investments"
+ },
+ {
+  "map_no": "20.001",
+  "description": "Trade Payables",
+  "fin_class": "BS",
+  "fin_category": "Payables",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "20.002",
+  "description": "Accrued Expenses",
+  "fin_class": "BS",
+  "fin_category": "Payables",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "20.003",
+  "description": "BAS & Other Taxes",
+  "fin_class": "BS",
+  "fin_category": "Payables",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "20.004",
+  "description": "Dividends Payable",
+  "fin_class": "BS",
+  "fin_category": "Payables",
+  "cf_class": "12 - Payments for Dividends"
+ },
+ {
+  "map_no": "20.005",
+  "description": "Income in Advance",
+  "fin_class": "BS",
+  "fin_category": "Payables",
+  "cf_class": "01 - Receipts from Customers"
+ },
+ {
+  "map_no": "20.006",
+  "description": "Other Payables",
+  "fin_class": "BS",
+  "fin_category": "Payables",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "20.02",
+  "description": "Other Payables - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Payables",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "21.001",
+  "description": "Current Tax Liability",
+  "fin_class": "BS",
+  "fin_category": "Income Tax Liabilities",
+  "cf_class": "05 - Income Taxes Paid"
+ },
+ {
+  "map_no": "21.002",
+  "description": "Deferred Tax Liability",
+  "fin_class": "BS",
+  "fin_category": "Income Tax Liabilities",
+  "cf_class": "05 - Income Taxes Paid"
+ },
+ {
+  "map_no": "21.003",
+  "description": "Deferred Tax Asset",
+  "fin_class": "BS",
+  "fin_category": "Income Tax Liabilities",
+  "cf_class": "05 - Income Taxes Paid"
+ },
+ {
+  "map_no": "22.001",
+  "description": "Employee Provisions",
+  "fin_class": "BS",
+  "fin_category": "Provisions",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "22.002",
+  "description": "Provisions",
+  "fin_class": "BS",
+  "fin_category": "Provisions",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "22.003",
+  "description": "Employee Provisions - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Provisions",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "22.004",
+  "description": "Provisions - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Provisions",
+  "cf_class": "02 - Payments to Suppliers and Employees"
+ },
+ {
+  "map_no": "23.001",
+  "description": "Borrowings",
+  "fin_class": "BS",
+  "fin_category": "Borrowings",
+  "cf_class": "10 - Payments for Borrowings"
+ },
+ {
+  "map_no": "23.002",
+  "description": "Borrowings - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Borrowings",
+  "cf_class": "10 - Payments for Borrowings"
+ },
+ {
+  "map_no": "24.001",
+  "description": "Lease & HP Payable",
+  "fin_class": "BS",
+  "fin_category": "Finance Lease Liabilities",
+  "cf_class": "11 - Payments for Finance Leases"
+ },
+ {
+  "map_no": "24.002",
+  "description": "Lease & HP Payable - Non Current",
+  "fin_class": "BS",
+  "fin_category": "Finance Lease Liabilities",
+  "cf_class": "11 - Payments for Finance Leases"
+ },
+ {
+  "map_no": "30.001",
+  "description": "Retained Earnings",
+  "fin_class": "EQ",
+  "fin_category": "Retained Earnings",
+  "cf_class": "N/A"
+ },
+ {
+  "map_no": "30.002",
+  "description": "Current Year Earnings",
+  "fin_class": "EQ",
+  "fin_category": "Retained Earnings",
+  "cf_class": "N/A"
+ },
+ {
+  "map_no": "31.001",
+  "description": "Issued Capital",
+  "fin_class": "EQ",
+  "fin_category": "Issued Capital",
+  "cf_class": "14 - Payments for Issued Capital"
+ },
+ {
+  "map_no": "32.002",
+  "description": "Reserves",
+  "fin_class": "EQ",
+  "fin_category": "Reserves",
+  "cf_class": "09 - Payments for Investments"
+ }
+]
